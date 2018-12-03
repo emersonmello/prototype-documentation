@@ -35,7 +35,7 @@ Esse projeto seguiu fielmente a lista de materiais do projeto original e foram a
 - [01 placa de fenolite Ilhada 4 X 6 cm PCB](images/placa-pcb-universal-dupla-face.jpg)
 - [01 conector mini USB fêmea](images/usb-femea-mini.png) 
 - [01 mini chave liga/desliga de alavanca](images/mini-chave-liga.png)
-- [03 conectores JST-XH de 3 vias (macho e fêmea)](images/conector-jst-xh-3p-macho)
+- [03 conectores JST-XH de 3 vias (macho e fêmea)](images/conector-jst-xh-3p-macho.png)
 - 01 conector JST-XH de 4 vias (macho e fêmea)
 
 
